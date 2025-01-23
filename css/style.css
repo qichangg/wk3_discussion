@@ -1,0 +1,43 @@
+.game-list {
+    list-style: none;
+    justify-content: left;
+    display: flex;
+    gap: 20px;
+}
+
+h1 {
+    font-size: 2em;
+    color: blue;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+img {
+    border: 4px solid black;
+    height: 300px;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+.terraria {
+    font-size: 1.5em;
+    color: green;
+}
+
+.bmw {
+    font-size: 1.5em;
+    color: black;
+}
+
+.rdr {
+    font-size: 1.5em;
+    color: red;
+}
+
+footer {
+    color: black;
+    position: fixed;
+    bottom: 10px;
+}
